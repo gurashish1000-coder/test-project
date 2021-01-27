@@ -7,6 +7,7 @@ A simple WEB-APP built using REACT.
 ### How to get Started:
 
 - Install Node.js. `https://nodejs.org/en/download/`
+- If you have installed Node.js you will need to restart.
 - Download zip or clone repository. `git clone https://github.com/gurashish1000-coder/test-project.git`
 - open the project folder in terminal and start the server. `npm start`
 - The server should start and the WEB APP should open up in browser.
