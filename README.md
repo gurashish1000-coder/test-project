@@ -2,7 +2,7 @@
 
 A simple WEB-APP built using REACT.
 
-## Project/IDE Setup
+## Setup
 
 ### How to get Started:
 
